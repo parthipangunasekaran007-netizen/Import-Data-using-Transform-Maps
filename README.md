@@ -67,7 +67,7 @@ The spreadsheet contains fields such as:
 
 **Screenshot:**
 
-![](02-spreadsheet.png.png)
+![](02-spreadsheet.png.png.png)
 
 ## 🔹 Step 2: Create Import Set Table
 
@@ -75,7 +75,7 @@ An Import Set Table was created in ServiceNow to temporarily store the data impo
 
 **Screenshot:**
 
-![](03-spreadsheet.png.png)
+![](03-spreadsheet.png.png.png)
 
 ## 🔹 Step 3: Import Spreadsheet Data
 
@@ -84,7 +84,7 @@ The prepared spreadsheet was uploaded into ServiceNow using the Import Set funct
 The imported records were stored in the Import Set Table.
 
 **Screenshot:**
-![](04-spreadsheet.png.png)
+![](04-spreadsheet.png.png.png)
 
 ## 🔹 Step 4: Create Transform Map
 
@@ -93,7 +93,7 @@ A Transform Map was created to define how the imported source data should be tra
 The source table and target table were selected during the Transform Map configuration.
 
 **Screenshot:**
-![](05-spreadsheet.png.png)
+![](05-spreadsheet.png.png.png)
 ## 🔹 Step 5: Configure Field Mapping
 
 The fields from the source spreadsheet were mapped to the corresponding fields in the target table.
@@ -155,3 +155,11 @@ This process is useful for migrating and integrating data from external sources 
 **Platform:** ServiceNow
 
 **Repository:** Import-Data-using-Transform-Maps
+### Team 
+Team Leader : Thanish V
+
+Team Members:
+- Parthipan G
+- Bharathraj P 
+- Guru Krishna P
+              
